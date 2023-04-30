@@ -1,0 +1,29 @@
+
+.form-control{
+    max-width: 20rem;
+}
+
+.dropdown-item{
+    color : white;
+}
+
+.dropdown-item:focus{
+    color: black;
+}
+
+.nav-link{
+    transition: all ease 0.7ms;
+}
+
+.nav-link:hover{
+    color: rgb(176, 171, 171) !important;
+}
+
+.back{
+    background-color: rgb(186, 198, 186) !important;
+}
+
+
+.over{
+    --bs-gutter-x: 0!important;
+}
